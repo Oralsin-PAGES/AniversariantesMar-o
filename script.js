@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "24-03.jpeg",
         "28-03-2024.jpeg",
         "28-03.jpeg",
-        "29-03-NRN.jpeg",
+        "29-03.jpeg",
         // Adicione mais imagens aqui
     ];
 
